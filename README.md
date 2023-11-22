@@ -1,34 +1,46 @@
 # Horiseon Refactoring
 
-## About The Project
+## Project Description
 
-Refactoring an existing HTML and CSS file to achieve the accessibility standard globally.
+A marketing agency has reached out to me to refactor their existing code to ensure it accomodates or meet the accessbility standards. 
+
+## Table of Contents
+
+- [GettingStarted](#Getting-started)
 
 ## Getting Started
 
-### Prerequisities
+- Create new repository
+- Clone onto desktop
+- Use Git Bash to pull/update repository
+- Modify HTML within VS code
 
-1. Clone the repo
-2. Name the repo an unqiue name, I have given the repo name of "Horiseon Refactoring"
+# Files Required
 
-### User Story
+- HTML
+- CSS
+- Associated Images within HTML
 
-- As marketing agency, I want the HTML to ensure it achieves the accessibility standards. 
+## Checklist for Accessibility Standards
 
-### Checklist
+[] Check source code
+[] Check HTML structure
+[] Check icon and image elements
+[] Check img have alt attributes incorporated
+[] Check heading attributes
+[] Check title element
 
-- Check Source Code
-- Check Semantic HTML Elements
-- Check structure of HTML elements
-- Check all elements are in logical structure
-- Check title
-- Check images have alt description
-- Check style.css has no repetitives 
+## Changes Made
 
-### Modifications Actioned
 
-- Implemented Semantic HTML elements
-- Checked structure of HTML elements
+
+
+## Author
+
+Created By Peter Xie
+
+
+
 - 
 
 
