@@ -6,7 +6,10 @@ A marketing agency has reached out to me to refactor their existing code to ensu
 
 ## Table of Contents
 
-- [GettingStarted](#Getting-started)
+- [Getting Started](#Getting-started)
+- [Files Required](#files-required)
+- [Checklist](#checklist)
+- [Modification List](#modification-list)
 
 ## Getting Started
 
@@ -21,16 +24,16 @@ A marketing agency has reached out to me to refactor their existing code to ensu
 - CSS
 - Associated Images within HTML
 
-## Checklist for Accessibility Standards
+## Checklist
 
-[] Check source code
-[] Check HTML structure
-[] Check icon and image elements
-[] Check img have alt attributes incorporated
-[] Check heading attributes
-[] Check title element
+- Check source code
+- Check HTML structure
+- Check icon and image elements
+- Check img have alt attributes incorporated
+- Check heading attributes
+- Check title element
 
-## Changes Made
+## Modification List
 
 
 
