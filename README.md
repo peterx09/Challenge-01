@@ -49,6 +49,7 @@ A marketing agency has reached out to me to refactor their existing code to ensu
 1. Add comments within the CSS
 2. Deleted float-right as it had same properties as float-left
 3. Combine classes that had the same properties
+4. Change the sizing the images to width: 306px, making all images the same size.
 
 
 ## Author
