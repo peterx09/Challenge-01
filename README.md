@@ -18,7 +18,7 @@ A marketing agency has reached out to me to refactor their existing code to ensu
 - Use Git Bash to pull/update repository
 - Modify HTML within VS code
 
-# Files Required
+## Files Required
 
 - HTML
 - CSS
@@ -35,7 +35,20 @@ A marketing agency has reached out to me to refactor their existing code to ensu
 
 ## Modification List
 
+### HTML 
 
+1. Add "type=text/css" into the style sheet link
+2. Change the title element to "Horiseon"
+3. Change the structure of the HTML by providing semantic elements (head, body, header, main, figure, footer etc)
+4. Change div tag for cover photo to <figure></figure>
+5. Added alt attribute to all imgs to reach accessibility standard
+6. Linked the Search Enginer Optimization to the section content
+
+### CSS
+
+1. Add comments within the CSS
+2. Deleted float-right as it had same properties as float-left
+3. Combine classes that had the same properties
 
 
 ## Author
